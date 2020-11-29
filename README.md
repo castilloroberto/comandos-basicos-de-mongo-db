@@ -9,7 +9,7 @@ Este es un pequeño resumen de los coamandos basicos de mongo db
 ```
 ![comando show dbs en windows](img/show_dbs.png)
 
-<a name="db">db<a>
+<a name="db"><a>
 ## Visualizar  la bases de datos en uso 
 ***
 
