@@ -9,8 +9,7 @@ Este es un pequeño resumen de los coamandos basicos de mongo db
 ```
 ![comando show dbs en windows](img/show_dbs.png)
 
-<a name="db"><a>
-## Visualizar  la bases de datos en uso 
+## [Visualizar  la bases de datos en uso](#db) 
 ***
 
 ```bash
@@ -31,7 +30,8 @@ Este es un pequeño resumen de los coamandos basicos de mongo db
 
 ## Eliminar Base de Datos
 > Para el siguiente comando es necesario
-> verificar que la base de datos en uso es la que se desea eliminar [esto lo puede hacer con el comando: **db**](#db) 
+> verificar que la base de datos en uso es la que se desea eliminar <a name="db">esto lo puede hacer con el comando: **db**<a>
+ 
 
 ```bash
 
