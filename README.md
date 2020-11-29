@@ -35,7 +35,7 @@ Este es un pequeño resumen de los coamandos basicos de mongo db
  
 
 ```bash
-db.dropDatabase()
+> db.dropDatabase()
 ```
 
 
