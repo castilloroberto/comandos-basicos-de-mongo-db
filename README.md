@@ -36,8 +36,7 @@ Este es un pequeño resumen de los coamandos basicos de mongo db
 
 ```
 
-### Screenshot
-![Image text](img/logoNews.png)
+
 
 
 
