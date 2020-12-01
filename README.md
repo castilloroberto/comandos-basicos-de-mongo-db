@@ -1,10 +1,12 @@
+# Comandos de mongo db
+**
+Este es un pequeño resumen de los coamandos basicos de mongo db
+
 ## Indice
 
 
 
-# Comandos de mongo db
-**
-Este es un pequeño resumen de los coamandos basicos de mongo db
+
 
 ### Visualizar bases de datos
 ***
