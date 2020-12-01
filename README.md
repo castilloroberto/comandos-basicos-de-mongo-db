@@ -57,7 +57,7 @@ Este es un pequeño resumen de los coamandos basicos de mongo db
 
 ## Eliminar Colecion
  
-```bash
+```mongodb
 > db.collecion.drop()
 ```
 ```bash
