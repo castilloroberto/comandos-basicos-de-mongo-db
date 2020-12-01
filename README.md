@@ -4,10 +4,12 @@ Este es un pequeño resumen de los coamandos basicos de mongo db
 
 ## Indice
 * [Listar Bases de Datos](#Listar-Bases-de-Datos)
-* [Anime](#anime)
-* [Anti-Malware](#anti-malware)
-* [Art & Design](#art--design)
+* [Visualizar la Base de Datos en Uso](#Visualizar-la-Base-de-Datos-en-Uso)
+* [Crear Base de Datos](#Crear-Base-de-Datos)
+* [Eliminar Base de Datos](#Eliminar-Base-de-Datos)
 * [Eliminar Colecion](#Eliminar-Colecion)
+* [Otro Comando](#Otro-Comando)
+
 
 
 
@@ -22,7 +24,7 @@ Este es un pequeño resumen de los coamandos basicos de mongo db
 **[⬆ Volver al Indice](#indice)**
 
 
-### Visualizar  la bases de datos en uso 
+### Visualizar la Base de Datos en Uso 
 ***
 
 ```bash
@@ -32,7 +34,7 @@ Este es un pequeño resumen de los coamandos basicos de mongo db
 
 **[⬆ Volver al Indice](#indice)**
 
-### Crear base de datos
+### Crear Base de Datos
 
 ```bash
 > use database_name
@@ -84,7 +86,7 @@ Este es un pequeño resumen de los coamandos basicos de mongo db
 ```
 **[⬆ Volver al Indice](#indice)**
 
-### Eliminar Colecion
+### otro comando
  
 ```mongodb
 > db.collecion.drop()
