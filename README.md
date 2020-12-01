@@ -39,6 +39,14 @@ Este es un pequeño resumen de los coamandos basicos de mongo db
 ```
 
 
+## crear coleecion
+ 
+
+```bash
+> db.createCollection("myColeccion")
+```
+
+
 
 
 
