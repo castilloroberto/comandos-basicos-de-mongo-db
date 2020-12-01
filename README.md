@@ -1,15 +1,21 @@
+## Indice
+
+
+
 # Comandos de mongo db
 **
 Este es un pequeño resumen de los coamandos basicos de mongo db
 
-## Visualizar bases de datos
+### Visualizar bases de datos
 ***
 ```bash
 > show dbs
 ```
 ![comando show dbs en windows](img/show_dbs.png)
+**[⬆ Volver al Indice](#indice)**
 
-## [Visualizar  la bases de datos en uso](#db) 
+
+### [Visualizar  la bases de datos en uso](#db) 
 ***
 
 ```bash
@@ -55,6 +61,14 @@ Este es un pequeño resumen de los coamandos basicos de mongo db
 ```
 ***
 
+## Eliminar Colecion
+ 
+```mongodb
+> db.collecion.drop()
+```
+```bash
+> db.products.drop()
+```
 ## Eliminar Colecion
  
 ```mongodb
