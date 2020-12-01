@@ -18,16 +18,17 @@ Este es un pequeño resumen de los coamandos basicos de mongo db
 > show dbs
 ```
 ![comando show dbs en windows](img/show_dbs.png)
+
 **[⬆ Volver al Indice](#indice)**
 
 
-### [Visualizar  la bases de datos en uso](#db) 
+### Visualizar  la bases de datos en uso 
 ***
 
 ```bash
 > db
 ```
-> Por defecto al iniciar sesion la base de datos es [test]()
+> Por defecto al iniciar sesion la base de datos es **test**
 **[⬆ Volver al Indice](#indice)**
 
 
