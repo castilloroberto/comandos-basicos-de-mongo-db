@@ -3,12 +3,16 @@
 Este es un pequeño resumen de los coamandos basicos de mongo db
 
 ## Indice
+* [Listar Bases de Datos](#Listar-Bases--Datos)
+* [Anime](#anime)
+* [Anti-Malware](#anti-malware)
+* [Art & Design](#art--design)
+* [Eliminar Colecion](#Eliminar-Colecion)
 
 
 
 
-
-### Visualizar bases de datos
+### Listar Bases de Datos
 ***
 ```bash
 > show dbs
@@ -24,8 +28,10 @@ Este es un pequeño resumen de los coamandos basicos de mongo db
 > db
 ```
 > Por defecto al iniciar sesion la base de datos es [test]()
+**[⬆ Volver al Indice](#indice)**
 
-## Crear base de datos
+
+### Crear base de datos
 
 ```bash
 > use database_name
@@ -35,8 +41,9 @@ Este es un pequeño resumen de los coamandos basicos de mongo db
 > use webStore
 ```
 
+**[⬆ Volver al Indice](#indice)**
 
-## Eliminar Base de Datos
+### Eliminar Base de Datos
 > Para el siguiente comando es necesario
 > verificar que la base de datos en uso es la que se desea eliminar esto lo puede hacer con el comando: [db](#db)
 <a name="db"><a>
@@ -46,24 +53,27 @@ Este es un pequeño resumen de los coamandos basicos de mongo db
 > db.dropDatabase()
 ```
 
+**[⬆ Volver al Indice](#indice)**
 
-## Crear Coleecion
+### Crear Coleecion
  
 
 ```bash
 > db.createCollection("myColeccion")
 ```
 ***
+**[⬆ Volver al Indice](#indice)**
 
-## Mostrrar Coleciones
+### Mostrrar Coleciones
  
 
 ```bash
 > show collection
 ```
 ***
+**[⬆ Volver al Indice](#indice)**
 
-## Eliminar Colecion
+### Eliminar Colecion
  
 ```mongodb
 > db.collecion.drop()
@@ -71,7 +81,9 @@ Este es un pequeño resumen de los coamandos basicos de mongo db
 ```bash
 > db.products.drop()
 ```
-## Eliminar Colecion
+**[⬆ Volver al Indice](#indice)**
+
+### Eliminar Colecion
  
 ```mongodb
 > db.collecion.drop()
@@ -79,6 +91,8 @@ Este es un pequeño resumen de los coamandos basicos de mongo db
 ```bash
 > db.products.drop()
 ```
+**[⬆ Volver al Indice](#indice)**
+
 
 
 
