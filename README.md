@@ -3,7 +3,7 @@
 Este es un pequeño resumen de los coamandos basicos de mongo db
 
 ## Indice
-* [Listar Bases de Datos](#Listar-Bases--Datos)
+* [Listar Bases de Datos](#Listar-Bases-de-Datos)
 * [Anime](#anime)
 * [Anti-Malware](#anti-malware)
 * [Art & Design](#art--design)
